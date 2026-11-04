@@ -43,20 +43,20 @@ async function seedSayedHameds(){
     
     const seededSayedHameds = await SayedHamed.insertMany([
         {
-            name: 'Sayed-Hamed Classic',
-            sayedHamedImage: 'https://github.com/SEB-16-Bahrain/assets/blob/main/sayed-hamed-real-image.png?raw=true',
+            name: 'Sayed Hamed (Base Form)',
+            sayedHamedImage: 'https://github.com/SEB-16-Bahrain/assets/blob/main/sayed-hamed-base.jpg?raw=true',
         },
         {
-            name: 'Sayed-Hamed AI',
-            sayedHamedImage: 'https://github.com/SEB-16-Bahrain/assets/blob/main/sayed-hamed-ai-image.png?raw=true',
+            name: 'Sayed Sweet',
+            sayedHamedImage: 'https://github.com/SEB-16-Bahrain/assets/blob/main/sayed-sweet.jpg?raw=true',
         },
         {
-            name: 'Sayed-Hamed Zaitoon',
-            sayedHamedImage: 'https://github.com/SEB-16-Bahrain/assets/blob/main/sayed-hamed6.png?raw=true',
+            name: 'Sayed Hamedmar',
+            sayedHamedImage: 'https://github.com/SEB-16-Bahrain/assets/blob/main/sayed-hamedmar.png?raw=true',
         },
         {
-            name: 'Sayed-Hamedmar',
-            sayedHamedImage: 'https://github.com/SEB-16-Bahrain/assets/blob/main/Sayed-Hamed3.png?raw=true',
+            name: 'Pirate Sayed Hamed',
+            sayedHamedImage: 'https://github.com/SEB-16-Bahrain/assets/blob/main/sayed-hamed-pirate.png?raw=true',
         },
     ])
 
