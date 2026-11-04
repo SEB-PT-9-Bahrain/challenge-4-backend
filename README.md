@@ -4,7 +4,7 @@
 
 2. Perform the following commands in the command line
 ```bash
-git clone https://github.com/omarakamal/olympics-3-backend.git .
+git clone https://github.com/SEB-PT-9-Bahrain/challenge-4-backend.git .
 rm -rf .git
 rm README.md
 ```
