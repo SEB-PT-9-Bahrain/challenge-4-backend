@@ -48,7 +48,7 @@ async function seedSayedHameds(){
         },
         {
             name: 'Sayed Sweet',
-            sayedHamedImage: 'https://github.com/SEB-16-Bahrain/assets/blob/main/sayed-sweet.jpg?raw=true',
+            sayedHamedImage: 'https://github.com/SEB-16-Bahrain/assets/blob/main/sayed-sweet.png?raw=true',
         },
         {
             name: 'Sayed Hamedmar',
