@@ -11,7 +11,7 @@ rm README.md
 
 3. Create a .env file with the following values:
 ```
-MONGODB_URI=mongodb://localhost:27017/olympics-3
+MONGODB_URI=mongodb://localhost:27017/challenge-4
 PORT=3000
 CLIENT_URL=http://localhost:5173
 ```
