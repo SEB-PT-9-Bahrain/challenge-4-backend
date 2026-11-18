@@ -44,19 +44,19 @@ async function seedSayedHameds(){
     const seededSayedHameds = await SayedHamed.insertMany([
         {
             name: 'Hamed (Base Form)',
-            sayedHamedImage: 'https://github.com/SEB-16-Bahrain/assets/blob/main/sayed-hamed-base.jpg?raw=true',
+            sayedHamedImage: 'https://github.com/SEB-16-Bahrain/assets/blob/main/hamed-base.png?raw=true',
         },
         {
             name: 'Sweet',
-            sayedHamedImage: 'https://github.com/SEB-16-Bahrain/assets/blob/main/sayed-sweet.png?raw=true',
+            sayedHamedImage: 'https://github.com/SEB-16-Bahrain/assets/blob/main/mr-sweet.png?raw=truetrue',
         },
         {
             name: 'Hamedmar',
-            sayedHamedImage: 'https://github.com/SEB-16-Bahrain/assets/blob/main/sayed-hamedmar.png?raw=true',
+            sayedHamedImage: 'https://github.com/SEB-16-Bahrain/assets/blob/main/mr-hamedmar.png?raw=true',
         },
         {
             name: 'Pirate Hamed',
-            sayedHamedImage: 'https://github.com/SEB-16-Bahrain/assets/blob/main/sayed-hamed-pirate.png?raw=true',
+            sayedHamedImage: 'https://github.com/SEB-16-Bahrain/assets/blob/main/hamed-pirate.png?raw=truetrue',
         },
     ])
 
